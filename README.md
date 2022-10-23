@@ -28,10 +28,9 @@ https://user-images.githubusercontent.com/110329486/197389622-09b2f2e3-cf99-4b09
 3. that is why we have made a fitness program quiz that finds you the best program workout for you. and it is super easy.
 
 
+![2022-10-23 (1)](https://user-images.githubusercontent.com/110329486/197389981-39d8762a-7a1b-4531-8b22-d8abf6f3e5c7.png)
 
 
-
-https://user-images.githubusercontent.com/110329486/197389799-dd326cda-e5b1-4302-be1d-1f299e0fe10d.mp4
 
 
 ![2022-10-23 (2)](https://user-images.githubusercontent.com/110329486/197389818-051fbea8-ed88-43ae-9ac7-27b846c54e34.png)
