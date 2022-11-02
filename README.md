@@ -3,7 +3,7 @@ this my mid project in my fullstack course.
 Fitness plan generator app. Offers the user a compatible Workout plan based on his workout history,health and more. Made using React and MUI.
 
 
-
+<br>
 
 https://user-images.githubusercontent.com/110329486/197389622-09b2f2e3-cf99-4b09-b75d-2b806c876c2e.mp4
 
