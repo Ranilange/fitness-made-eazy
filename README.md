@@ -9,6 +9,7 @@ https://user-images.githubusercontent.com/110329486/197389622-09b2f2e3-cf99-4b09
 
 
 
+<br>
   
 ## Why was fitness made eazy made and why you should use it
 
@@ -17,13 +18,16 @@ https://user-images.githubusercontent.com/110329486/197389622-09b2f2e3-cf99-4b09
 3. That is why we have made a fitness program quiz that finds you the best program workout for you. and it is super easy.
 
 
+<br>
 ![2022-10-23 (1)](https://user-images.githubusercontent.com/110329486/197389981-39d8762a-7a1b-4531-8b22-d8abf6f3e5c7.png)
 
 
+<br>
 
 
 ![2022-10-23 (2)](https://user-images.githubusercontent.com/110329486/197389818-051fbea8-ed88-43ae-9ac7-27b846c54e34.png)
 
+<br>
 
 ## Technologies:
 
@@ -33,6 +37,7 @@ https://user-images.githubusercontent.com/110329486/197389622-09b2f2e3-cf99-4b09
 * Mui
 
 
+<br>
 
 ## Visit my site
 https://fitnessmadeeazy.netlify.app/
